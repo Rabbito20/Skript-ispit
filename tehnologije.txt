@@ -1,0 +1,21 @@
+python
+    virtualenv
+
+    django
+        rest-framework  (REST api)
+        cors-headers    (security izmedju backend-a i API-ja)
+
+        kreiran admin nalog:
+            admin
+            admin@scriptRaf.com
+            
+
+    djoser (tokeni za autentifikaciju, login i slicno)
+
+    pillow (python image library)
+
+    stripe
+
+vue.js
+    axios   (biblioteka za komunikaciju sa backend-om)
+    bulma   (css framework)
